@@ -1,0 +1,3 @@
+com\spring\microservices\BaseClassComponent.class
+com\spring\microservices\boot\MicroServicesBootApplication.class
+com\spring\microservices\controller\impl\MvcController.class

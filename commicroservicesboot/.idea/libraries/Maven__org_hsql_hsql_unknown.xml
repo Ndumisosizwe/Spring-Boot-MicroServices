@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.hsql:hsql:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hsql/hsql/unknown/hsql-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hsql/hsql/unknown/hsql-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/hsql/hsql/unknown/hsql-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
